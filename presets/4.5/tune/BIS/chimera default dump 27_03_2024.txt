@@ -1,4 +1,51 @@
 # 
+#$ TITLE: SupaflyFPV Freestyle 7 Inch
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: TUNE
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: Supafly, SupaflyFPV, Freestyle, 7 inch, 7"
+#$ AUTHOR: SupaflyFPV
+
+#$ PARSER: MARKED
+#$ INCLUDE_WARNING: misc/warnings/en/rpm_filters.txt
+
+#$ DESCRIPTION: <a href="https://supaflyfpv.com"><img src="https://supaflyfpv.com/wp-content/uploads/2022/06/Logo-Cropped192.svg" width="220px" style="margin-left: auto; margin-right: auto; display: block;"/></a>
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
+#$ DESCRIPTION: ### SupaflyFPV 7 Inch Freestyle Preset
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
+#$ DESCRIPTION: Choose from the options in drop-down menu above:
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
+#$ DESCRIPTION: * For optimisation and tips [use this custom PID calculator](https://supaflyfpv.com/betaflight-setup/)
+#$ DESCRIPTION: * RPM Filtering recommended on compatible ESC or de-select if not available
+#$ DESCRIPTION: * Pick your Radio Link or search in presets if not found
+#$ DESCRIPTION: * Try some freestyle rates...
+#$ DESCRIPTION: 
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
+#$ DESCRIPTION: Enjoy!
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
+#$ DESCRIPTION: Support, feedback and chat:
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
+#$ DESCRIPTION:*[FACEBOOK SUPPORT/FEEDBACK](https://www.facebook.com/groups/supaflyfpv/)
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
+#$ DESCRIPTION:*[DISCORD SUPPORT/FEEDBACK](https://discord.gg/Gs5nTx4rE2)
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION: 
+
+#$ INCLUDE: presets/4.5/tune/defaults.txt
 
 # dump
 
